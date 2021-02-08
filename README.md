@@ -24,4 +24,4 @@ The application creates a GenerateREADME.md file which contains:
     Installation, Usage and Testing information
 ## Mock-up
 
-Demo of the application [Read-Me-Demo](https://github.com/asheth22/README/blob/main/utils/ReadMe.mp4)
+Demo of the application [Read-Me-Demo](https://github.com/asheth22/README/blob/main/utils/ReadMe.gif)
